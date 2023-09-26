@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erik Weidenauer</h1>
-<h3 align="center">A passionate Java Programmer and Web Dev.</h3>
+<h3 align="center">I am 16 years old & a passionate Java Programmer and Web Dev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weidenauererik&label=Profile%20views&color=0e75b6&style=flat" alt="weidenauererik" /> </p>
-
-- 🔭 I’m currently working on [-](-)
 
 - 👨‍💻 All of my projects are available at [https://erikweidenauer.web.app](https://erikweidenauer.web.app)
 
