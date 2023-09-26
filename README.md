@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://erikweidenauer.web.app](https://erikweidenauer.web.app)
 
-- 💬 Ask me about **Java, Python, Bootstrap**
+- 💬 Ask me about **Java, Python, MySQL, Arduino & Bootstrap**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
