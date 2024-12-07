@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weidenauererik&label=Profile%20views&color=0e75b6&style=flat" alt="weidenauererik" /> </p>
 
-- 👨‍💻 My personal Portfolio https://personal-website-xri4.onrender.com
+- 👨‍💻 My personal Portfolio -> https://personal-website-xri4.onrender.com
 
 - 💬 Ask me about **Java (Spring Boot Web Applications), Python, MySQL, Arduino, Bootstrap, HTML, CSS**
 
