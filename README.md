@@ -5,7 +5,7 @@
 
 - 👨‍💻 My personal Portfolio --> https://erik-weidenauer.tiiny.site/
 
-- 💬 Ask me about **Java (Spring Boot Web Applications), Python, MySQL, Arduino, Bootstrap, HTML, CSS**
+- 💬 Ask me about **Java (Spring Boot Web Applications), VueJs (Typescript & Javascript), Python, MySQL, Arduino**
 
 - 😏 Certifications -> NSE 1-3(Fortinet) & ITN(cisco)
 
