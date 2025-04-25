@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weidenauererik&label=Profile%20views&color=0e75b6&style=flat" alt="weidenauererik" /> </p>
 
-- 👨‍💻 My personal Portfolio --> https://erik-weidenauer.tiiny.site/
+- 👨‍💻 My personal Portfolio 
 
 - 💬 Ask me about **Java (Spring Boot Web Applications), VueJs (Typescript & Javascript), Python, MySQL, Arduino**
 
