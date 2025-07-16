@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weidenauererik&label=Profile%20views&color=0e75b6&style=flat" alt="weidenauererik" /> </p>
 
-- 👨‍💻 My personal Portfolio 
-
 - 💬 Ask me about **Java (Spring Boot Web Applications), VueJs (Typescript & Javascript), Python, MySQL, Arduino**
 
 - 😏 Certifications -> NSE 1-3(Fortinet) & ITN(cisco)
