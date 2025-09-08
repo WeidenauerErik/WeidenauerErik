@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erik Weidenauer</h1>
-<h3 align="center">I am 17 years old & a passionate Programmer, Network Technician and Cyber Security affine.</h3>
+<h3 align="center">I am 18 years old & a passionate Programmer, Network Technician and Cyber Security affine.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weidenauererik&label=Profile%20views&color=0e75b6&style=flat" alt="weidenauererik" /> </p>
 
