@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erik Weidenauer</h1>
-<h3 align="center">A passionate web developer from Austria</h3>
+<h3 align="center">A passionate full stack developer from Austria</h3>
 
 - 🔭 I’m currently at the [HTL Rennweg](https://www.htlrennweg.at/)
 
